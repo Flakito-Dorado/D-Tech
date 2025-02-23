@@ -1,2 +1,2 @@
-# D-Tech
-soporte tecnico
+# DTECH
+TECHNICAL-SUPPORT
